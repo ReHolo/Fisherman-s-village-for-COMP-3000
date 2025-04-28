@@ -1,10 +1,10 @@
-# 🎮 Fisherman's Village - Game Demo
+# Fisherman's Village - Game Demo
 
 **Fisherman's Village** is a first-person survival horror experience developed using **Unity 6000**, inspired by the Lovecraftian classic *The Shadow over Innsmouth*. This project was created as part of the COMP3000 coursework for the Game Development module at Plymouth University.
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 - **Game Title**: Fisherman's Village  
 - **Genre**: First-Person Survival Horror  
@@ -16,7 +16,7 @@ The player explores an eerie, abandoned fishing village enveloped by fog and mys
 
 ---
 
-## ✨ Game Features
+## Game Features
 
 - **Immersive Atmosphere**: Dynamic lighting, dense fog, ambient soundscapes.
 - **Interactive Environment**: Objects can be picked up, examined, and used to solve puzzles.
@@ -27,7 +27,7 @@ The player explores an eerie, abandoned fishing village enveloped by fog and mys
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 1. **Clone or Download** this repository.
 
@@ -42,7 +42,7 @@ git clone [https://github.com/yourusername/your-repository.git](https://github.c
 
 ---
 
-## 🎮 Controls
+## Controls
 
 | Action                | Key                       |
 |-----------------------|---------------------------|
@@ -57,7 +57,7 @@ git clone [https://github.com/yourusername/your-repository.git](https://github.c
 ---
 
 
-## 🛡️ License and Ethical Compliance
+## License and Ethical Compliance
 
 - All third-party assets (HFPS Kit, Lovecraftian Village) are used solely for educational purposes.
 - Ethical approval for user testing was obtained via Plymouth University's Computing Ethics Procedure.
@@ -65,13 +65,13 @@ git clone [https://github.com/yourusername/your-repository.git](https://github.c
 
 ---
 
-## 🎥 Gameplay Demo
+## Gameplay Demo
 
 - A gameplay demonstration video will be available shortly. *(Link will be updated here soon.)*
 
 ---
 
-## 🚧 Future Development
+## Future Development
 
 - Enhanced enemy AI for dynamic, unpredictable encounters.
 - Expansion of game map with additional detailed environments.
@@ -80,7 +80,7 @@ git clone [https://github.com/yourusername/your-repository.git](https://github.c
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - **Unity Technologies** - Unity Engine and extensive documentation.
 - **Unity Asset Store** - Lovecraftian Horror Village environment assets.
