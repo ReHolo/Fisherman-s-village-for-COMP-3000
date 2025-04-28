@@ -67,7 +67,7 @@ git clone [https://github.com/yourusername/your-repository.git](https://github.c
 
 ## Gameplay Demo
 
-- A gameplay demonstration video will be available shortly. *(Link will be updated here soon.)*
+- A gameplay demonstration video will be available shortly. (https://youtu.be/wMUgfwdS1KQ)
 
 ---
 
